@@ -34,11 +34,11 @@ https://www.kaggle.com/c/titanic/data
 
 ## Visualization Interpretation 
 ### Plot 1 — Fare Distribution by Survival
-Passengers who survived generally paid higher fares than those who did not. The median fare is noticeably higher for survivors, and there are several high-fare outliers among them. This suggests that wealth (and passenger class) was strongly associated with survival.
+Passengers who survived generally paid higher fares than those who did not. The median fare is noticeably higher for survivors, and there are several high-fare outliers among them. This suggests that wealth and passenger class was strongly associated with survival.
 <img width="900" height="600" alt="viz_fare_by_survival" src="https://github.com/user-attachments/assets/c5ad4979-22ef-4652-a914-da84546dae61" />
 
 ### Plot 2 — Survival Rate by Sex
-Female passengers had a much higher survival rate (~70–75%) compared to male passengers (~18–20%). This supports the historical “women and children first” policy and shows that sex is a strong predictor of survival.
+Female passengers had a much higher survival rate (about 70–75%) compared to male passengers (about 18–20%). This supports the historical “women and children first” policy and shows that sex is a strong predictor of survival.
 <img width="900" height="600" alt="viz_survival_by_sex" src="https://github.com/user-attachments/assets/dd8f138b-9cdd-452f-9416-0ebbfa358ed1" />
 
 ### Plot 3 — Age Distribution by Survival
